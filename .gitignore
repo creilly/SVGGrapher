@@ -1,7 +1,8 @@
-.pyproject
+.pydevproject
 .project
 *.class
 *.pyc
 *.pyo
 *~
+master
 master
